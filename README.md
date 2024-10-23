@@ -53,7 +53,7 @@ O objetivo deste projeto é aplicar os conceitos e teoremas das bissetrizes inte
 
 O esboço geométrico abaixo, feito no GeoGebra, ilustra as propriedades das bissetrizes interna e externa. A divisão dos lados do triângulo foi calculada com base nas proporções estabelecidas pelos teoremas.
 
-
+[Link para a imagem](https://raw.githubusercontent.com/EmyEms/ATIVIDADE-2--BISSETRIZ-DO-TRIANGULO/refs/heads/main/PRINT.jpeg)
 
 ### Link do GeoGebra
 
